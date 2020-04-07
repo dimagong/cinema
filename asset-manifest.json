@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cinema_react/static/css/main.0d843db2.chunk.css",
+    "main.js": "/cinema_react/static/js/main.45f13154.chunk.js",
+    "main.js.map": "/cinema_react/static/js/main.45f13154.chunk.js.map",
+    "runtime-main.js": "/cinema_react/static/js/runtime-main.30ecddc7.js",
+    "runtime-main.js.map": "/cinema_react/static/js/runtime-main.30ecddc7.js.map",
+    "static/css/2.de424728.chunk.css": "/cinema_react/static/css/2.de424728.chunk.css",
+    "static/js/2.3f4246f3.chunk.js": "/cinema_react/static/js/2.3f4246f3.chunk.js",
+    "static/js/2.3f4246f3.chunk.js.map": "/cinema_react/static/js/2.3f4246f3.chunk.js.map",
+    "index.html": "/cinema_react/index.html",
+    "precache-manifest.b6f4cf760b9f189e1c69c4cfec7444a6.js": "/cinema_react/precache-manifest.b6f4cf760b9f189e1c69c4cfec7444a6.js",
+    "service-worker.js": "/cinema_react/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/cinema_react/static/css/2.de424728.chunk.css.map",
+    "static/css/main.0d843db2.chunk.css.map": "/cinema_react/static/css/main.0d843db2.chunk.css.map",
+    "static/js/2.3f4246f3.chunk.js.LICENSE.txt": "/cinema_react/static/js/2.3f4246f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30ecddc7.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.3f4246f3.chunk.js",
+    "static/css/main.0d843db2.chunk.css",
+    "static/js/main.45f13154.chunk.js"
+  ]
+}
